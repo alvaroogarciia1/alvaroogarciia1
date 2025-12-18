@@ -1,16 +1,24 @@
 # 💫 About Me:
 🔭 I’m currently working on  
 Personal backend projects (REST APIs and systems programming) and improving my GitHub portfolio with well-documented projects.
+
 👯 I’m looking to collaborate on  
 Backend-focused projects, APIs, developer tools or university-related software projects.
+
 🤝 I’m looking for help with  
 Backend architecture best practices, clean code, testing strategies and effective use of AI tools in real development workflows.
+
 🌱 I’m currently learning  
 Advanced backend development, databases, system-level programming in C/Linux, and AI-assisted development with tools like GitHub Copilot.
+
 💬 Ask me about  
 Java, Spring Boot, REST APIs, C/Linux systems programming, or how I structure and document personal projects.
+
 ⚡ Fun fact  
 Most of my projects started as university assignments and became personal learning challenges.
+
+📌 Open to internship opportunities and junior roles in software and backend development.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byalvaro40@gmail.com) 
