@@ -49,12 +49,6 @@ Most of my projects started as university assignments and became personal learni
 - Docker introduced and used in academic environments
 - LaTeX for technical documentation and reports
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alvaroogarciia1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alvaroogarciia1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroogarciia1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
