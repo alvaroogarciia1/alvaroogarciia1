@@ -2,7 +2,7 @@
 
 I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM) with a strong interest in cybersecurity, backend development, systems programming and clean, well-structured software.
 
-📌 **Open to internship opportunities and junior roles** in software and backend development.
+📌 **Open to internship opportunities and junior roles**.
 
 🌐 **Portfolio:** https://alvaroogarciia1.github.io  
 💼 **LinkedIn:** https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346
