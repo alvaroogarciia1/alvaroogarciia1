@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Álvaro
 
-I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM) with a strong interest in **backend development**, systems programming and clean, well-structured software.
+I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM) with a strong interest in cybersecurity, backend development, systems programming and clean, well-structured software.
 
 📌 **Open to internship opportunities and junior roles** in software and backend development.
 
