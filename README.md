@@ -1,26 +1,46 @@
-# 👋 Hi, I'm Álvaro
+# Hey, I'm Álvaro!
 
-I'm a **Computer Engineering student** at the Universidad Politécnica de Madrid (UPM) with a strong interest in cybersecurity, backend development, systems programming and clean, well-structured software.
-
-📌 **Open to internship opportunities and junior roles**.
-
-🌐 **Portfolio:** https://alvaroogarciia1.github.io  
-💼 **LinkedIn:** https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346
+🎓 Final-year Computer Engineering student at UPM (ETSIINF)  
+💻 Interested in software development, systems and cybersecurity  
+🐧 Passionate about Linux and low-level programming  
 
 ---
 
-## 💻 Tech Stack (Core)
-Java · C · Python · Spring Boot · REST APIs · PostgreSQL · Git · Maven · Linux
+## 🚀 About Me
+
+I'm a motivated developer with a strong interest in building efficient and technical solutions.  
+I enjoy working close to the system level, understanding how things work under the hood, and solving complex problems.
 
 ---
 
-## 🎓 Academic & Additional Experience
-- Backend and systems programming projects (Java, C/Linux)
-- University projects evolved into personal learning challenges
-- Game development projects with C# and Unity
-- Docker, SonarQube and automated testing in academic environments
-- Technical documentation using LaTeX
+## 🛠️ Tech Stack
+
+**Languages:** Java · Python · C  
+**Backend:** Spring Boot · REST APIs  
+**Databases:** PostgreSQL · MySQL  
+**Mobile:** Flutter · Firebase  
+**Tools & Others:** Docker · Git · Linux  
 
 ---
 
-> Most of my projects started as university assignments and evolved into personal learning challenges.
+## 🌐 Portfolio
+
+All my projects, experience and CV are available here:
+
+👉 https://alvaroogarciia1.github.io/
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvaroogarciia1&theme=onedark)](https://git.io/streak-stats)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvaroogarciia1&layout=compact)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: byalvaro40@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/álvaro-garcia-caro-bartolomé-71121b346
