@@ -1,6 +1,6 @@
 # Hey, I'm Álvaro!
 
-🎓 Final-year Computer Engineering student at UPM (ETSIINF)  
+🎓 Computer Science Graduate from UPM (ETSIINF)
 💻 Interested in software development, systems and cybersecurity  
 🐧 Passionate about Linux and low-level programming  
 
@@ -8,18 +8,23 @@
 
 ## 🚀 About Me
 
-I'm a motivated developer with a strong interest in building efficient and technical solutions.  
-I enjoy working close to the system level, understanding how things work under the hood, and solving complex problems.
+I'm a Computer Science graduate from UPM with a strong interest in backend development, software engineering and cybersecurity.
+
+I enjoy designing scalable applications, building REST APIs, working with relational databases and learning new technologies. I'm always looking for opportunities to improve my technical skills and contribute to meaningful software projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · Python · C  
-**Backend:** Spring Boot · REST APIs  
-**Databases:** PostgreSQL · MySQL  
-**Mobile:** Flutter · Firebase  
-**Tools & Others:** Docker · Git · Linux  
+**Languages:** Java · Python · C · TypeScript · SQL
+
+**Backend:** Spring Boot · REST APIs · Spring Security · JWT
+
+**Frontend:** React · Next.js · TypeScript
+
+**Databases:** PostgreSQL · MySQL · Firebase
+
+**Tools:** Docker · Git · Maven · Postman · Linux
 
 ---
 
@@ -42,5 +47,8 @@ All my projects, experience and CV are available here:
 
 ## 📫 Contact
 
-- 📧 Email: byalvaro40@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/álvaro-garcia-caro-bartolomé-71121b346
+## 📫 Contact
+
+- 📧 [Email](mailto:byalvaro40@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-garcia-caro-bartolom%C3%A9-71121b346/)
+- 🌐 [Portfolio](https://alvaroogarciia1.github.io/)
